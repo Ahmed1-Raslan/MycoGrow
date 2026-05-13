@@ -1,5 +1,7 @@
 # MycoGrow: Standalone Fungal Radial Growth Analysis
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20171641.svg)](https://doi.org/10.5281/zenodo.20171641)
+
 **MycoGrow** is a free, open-source, serverless, single-page HTML5 application designed for mycologists, plant pathologists, and microbiologists. It provides a complete digital pipeline for fungal radial growth analysis, objective phenotyping, and comparative statistics—all running entirely within the user's web browser without requiring internet access or backend servers.
 
 ## Features
