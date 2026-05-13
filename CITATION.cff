@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software in your research, please cite it as follows:"
+authors:
+  - family-names: "Raslan"
+    given-names: "Ahmed"
+    affiliation: "Department of Genetics, Faculty of Agriculture and Natural Resources, Aswan University, Egypt"
+title: "MycoGrow: A Standalone Browser-Based Platform for Fungal Radial Growth Analysis"
+version: 1.0.0
+date-released: 2026-05-13
+url: "https://github.com/Ahmed1-Raslan/MycoGrow"

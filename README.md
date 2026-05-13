@@ -22,6 +22,9 @@
 
 If you use MycoGrow in your research, please cite our software paper (included in this repository as `MycoGrow_Paper.pdf`).
 
+**Recommended Citation:**
+> Raslan, A. (2026). *MycoGrow: A Standalone Browser-Based Platform for Fungal Radial Growth Analysis, Digital Phenotyping, and Comparative Statistics*. GitHub. https://github.com/Ahmed1-Raslan/MycoGrow
+
 **Author**: Ahmed Raslan  
 *Department of Genetics, Faculty of Agriculture and Natural Resources, Aswan University, Aswan, Egypt.*
 
